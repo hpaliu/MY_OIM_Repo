@@ -1,0 +1,2 @@
+File created in Test branch. Test branch was just made protected. 
+Would it allow the checkin to go through? Or, should I wait for a while before validating the protection?
